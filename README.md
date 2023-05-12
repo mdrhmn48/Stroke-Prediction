@@ -1,7 +1,7 @@
 # Stroke-Prediction
 
 ### Delegation:
-- Steven: Dataset Descriptive Statistics, BMI Box Plot, Smokers Pie Chart, BMI vs Glucose Regression Plot, and 3D Plot
+- Steven: Dataset Descriptive Statistics, KDE Glucose, BMI Box Plot, Smokers Pie Chart, BMI vs Glucose Regression Plot, and 3D Plot
 - Maleiyah: Stroke Count by Age Group, Stroke or No Stroke based on Gender and Average Glucose Levels, Stroke by Gender and Age, Correlation of Hypertension to Stroke
 - Cody: Heatmap, Count of stroke vs no stroke, Proportion of strokes for heart disease condition, Retrospective, Started Tableau Dashboard
 
