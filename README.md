@@ -1,5 +1,10 @@
 # Stroke-Prediction
 
+### Delegation:
+- Steven: Descriptive Statistics, Box Plot, Pie Chart, Regression Plot, and 3D Plot
+- Maleiyah:
+- Cody:
+
 # Retrospective
  
 What went well:
