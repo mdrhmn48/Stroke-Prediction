@@ -2,7 +2,7 @@
 
 ### Delegation:
 - Steven: Descriptive Statistics, Box Plot, Pie Chart, Regression Plot, and 3D Plot
-- Maleiyah:
+- Maleiyah: Stroke Count by Age Group, Stroke or No Stroke based on Gender and Average Glucose Levels, Stroke by Gender and Age, Correlation of Hypertension to Stroke
 - Cody: Heatmap, Count of stroke vs no stroke, Proportion of strokes for heart disease condition, Retrospective, Started Tableau Dashboard
 
 
