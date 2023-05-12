@@ -3,7 +3,8 @@
 ### Delegation:
 - Steven: Descriptive Statistics, Box Plot, Pie Chart, Regression Plot, and 3D Plot
 - Maleiyah:
-- Cody:
+- Cody: Heatmap, Count of stroke vs no stroke, Proportion of strokes for heart disease condition, Retrospective, Started Tableau Dashboard
+
 
 # Retrospective
  
