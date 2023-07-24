@@ -1,11 +1,13 @@
 # PowerBi Visualization:
- ![1](https://github.com/mdrhmn48/Stroke-Prediction/blob/main/Screenshot_20230713_072132.png)
+ ![1](https://github.com/mdrhmn48/Stroke-Prediction/blob/main/Screenshot_20230712_055032.png)
+ ## Second Dashboard: 
  ![2](https://github.com/mdrhmn48/Stroke-Prediction/blob/main/Screenshot_20230713_072132.png)
 
 
 # Stroke-Prediction
 
 ### Delegation:
+- MD Rahman: Worked on 2 iteration of the project. Created new dashboard for Stroke Analysis. Also transition old dashboard to PowerBi.
 - Steven: Dataset Descriptive Statistics, KDE Glucose, BMI Box Plot, Smokers Pie Chart, BMI vs Glucose Regression Plot, and 3D Plot
 - Maleiyah: Stroke Count by Age Group, Stroke or No Stroke based on Gender and Average Glucose Levels, Stroke by Gender and Age, Correlation of Hypertension to Stroke
 - Cody: Heatmap, Count of stroke vs no stroke, Proportion of strokes for heart disease condition, Retrospective, Started Tableau Dashboard
