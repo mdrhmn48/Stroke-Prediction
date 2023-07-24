@@ -1,4 +1,6 @@
-#PowerBi Visualization:
+# PowerBi Visualization:
+ ![1](https://github.com/mdrhmn48/Stroke-Prediction/blob/main/Screenshot_20230713_072132.png)
+ ![2](https://github.com/mdrhmn48/Stroke-Prediction/blob/main/Screenshot_20230713_072132.png)
 
 
 # Stroke-Prediction
